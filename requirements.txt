@@ -1,0 +1,3 @@
+numpy>=1.22
+pandas>=1.5
+# To open and rerun the notebook interactively, also install JupyterLab.
